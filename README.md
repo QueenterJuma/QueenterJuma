@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Queenter Juma</h1>
 <h3 align="center">A passionate Full-Stack developer from Kenya</h3>
+<img width='400' align='right' src='https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif' alt='coding image'>
 
 - 🌱 I’m currently learning **React, Redux, Ruby, Rails**
 
